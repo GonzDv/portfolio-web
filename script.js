@@ -22,3 +22,4 @@ function textTypingEffect(element, text, i = 0) {
   setTimeout(() => textTypingEffect(p, text, i + 1), 50);
 }
 textTypingEffect(p, text);
+console.log(5+5)
